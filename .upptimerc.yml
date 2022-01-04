@@ -7,8 +7,7 @@ sites:
     url: https://imaginaryctf.org
   - name: FDownl
     url: https://fdow.nl
-  - name: Test
-    url: https://1test.headadvertiserperson.ml
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
