@@ -8,6 +8,7 @@ sites:
     icon: https://imaginaryctf.org/img/logo.png
   - name: FDownl
     url: https://fdow.nl
+    icon: https://fdow.nl/img/cover.svg
 
 
 status-website:
