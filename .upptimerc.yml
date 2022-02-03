@@ -27,7 +27,7 @@ status-website:
       href: https://imaginaryctf.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: night
   
 
 
