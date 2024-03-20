@@ -4,7 +4,7 @@
     "url": "https://imaginaryctf.org",
     "icon": "https://imaginaryctf.org/img/logo.png",
     "slug": "imaginary-ctf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 330,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2024-03-20": 0,
       "2024-01-31": 98,
       "2024-01-30": 311,
       "2023-11-05": 63,
