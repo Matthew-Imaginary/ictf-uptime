@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.80%",
     "time": 375,
-    "timeDay": 462,
-    "timeWeek": 1072,
-    "timeMonth": 506,
-    "timeYear": 375,
+    "timeDay": 226,
+    "timeWeek": 1037,
+    "timeMonth": 508,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2025-08-22": 23,
       "2025-05-16": 487,
@@ -28,18 +28,19 @@
     "icon": "https://fdow.nl/img/cover.svg",
     "slug": "f-downl",
     "status": "down",
-    "uptime": "66.41%",
+    "uptime": "66.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.19%",
-    "time": 163,
+    "time": 164,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-08-30": 101,
+      "2025-08-31": 112,
+      "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
@@ -402,8 +403,7 @@
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440
+      "2024-09-01": 1440
     }
   }
 ]
