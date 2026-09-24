@@ -6,14 +6,14 @@
     "slug": "imaginary-ctf",
     "status": "up",
     "uptime": "97.83%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "25.67%",
-    "uptimeMonth": "9.35%",
+    "uptimeDay": "23.66%",
+    "uptimeWeek": "29.05%",
+    "uptimeMonth": "10.13%",
     "uptimeYear": "91.04%",
-    "time": 840,
-    "timeDay": 172,
-    "timeWeek": 328,
-    "timeMonth": 3135,
+    "time": 839,
+    "timeDay": 191,
+    "timeWeek": 309,
+    "timeMonth": 2169,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2025-12-24": 157,
@@ -63,7 +63,7 @@
     "icon": "https://fdow.nl/img/cover.svg",
     "slug": "f-downl",
     "status": "down",
-    "uptime": "51.55%",
+    "uptime": "51.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 1340,
+      "2026-09-24": 240,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -437,8 +438,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   }
 ]
