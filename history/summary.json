@@ -4,15 +4,15 @@
     "url": "https://imaginaryctf.org",
     "icon": "https://imaginaryctf.org/img/logo.png",
     "slug": "imaginary-ctf",
-    "status": "up",
+    "status": "down",
     "uptime": "96.22%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "32.74%",
-    "uptimeMonth": "21.34%",
+    "uptimeDay": "9.00%",
+    "uptimeWeek": "32.73%",
+    "uptimeMonth": "21.63%",
     "uptimeYear": "82.87%",
-    "time": 836,
+    "time": 837,
     "timeDay": 269,
-    "timeWeek": 3185,
+    "timeWeek": 4124,
     "timeMonth": 1401,
     "timeYear": 1060,
     "dailyMinutesDown": {
@@ -91,7 +91,8 @@
       "2026-11-01": 1435,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
-      "2026-10-29": 1365
+      "2026-10-29": 1365,
+      "2026-11-02": 0
     }
   },
   {
@@ -100,7 +101,7 @@
     "icon": "https://fdow.nl/img/cover.svg",
     "slug": "f-downl",
     "status": "down",
-    "uptime": "50.42%",
+    "uptime": "50.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -111,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-01": 1436,
+      "2026-11-02": 125,
+      "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -474,8 +476,7 @@
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
-      "2025-11-03": 1440,
-      "2025-11-02": 1440
+      "2025-11-03": 1440
     }
   }
 ]
