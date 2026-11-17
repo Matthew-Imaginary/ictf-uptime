@@ -5,12 +5,12 @@
     "icon": "https://imaginaryctf.org/img/logo.png",
     "slug": "imaginary-ctf",
     "status": "down",
-    "uptime": "95.61%",
+    "uptime": "95.60%",
     "uptimeDay": "69.09%",
     "uptimeWeek": "27.91%",
-    "uptimeMonth": "24.11%",
-    "uptimeYear": "79.69%",
-    "time": 849,
+    "uptimeMonth": "23.60%",
+    "uptimeYear": "79.64%",
+    "time": 850,
     "timeDay": 147,
     "timeWeek": 199,
     "timeMonth": 1266,
@@ -107,7 +107,7 @@
       "2026-11-16": 660,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
-      "2026-11-17": 0
+      "2026-11-17": 222
     }
   },
   {
@@ -127,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 216,
+      "2026-11-17": 438,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
